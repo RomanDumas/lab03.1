@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\LR_3.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9E0E44-76AE-409A-9F1B-F42B4CF238CF}|LR_3.1\\LR_3.1.vcxproj|C:\\Users\\hp\\source\\repos\\LR_3.1\\LR_3.1\\LR3.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D9E0E44-76AE-409A-9F1B-F42B4CF238CF}|LR_3.1\\LR_3.1.vcxproj|solutionrelative:LR_3.1\\LR3.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LR3.1.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LR_3.1\\LR_3.1\\LR3.1.cpp",
+              "RelativeDocumentMoniker": "LR_3.1\\LR3.1.cpp",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR_3.1\\LR_3.1\\LR3.1.cpp",
+              "RelativeToolTip": "LR_3.1\\LR3.1.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-17T17:21:46.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
